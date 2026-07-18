@@ -12,3 +12,5 @@ def fetch_user_profile(user_id):
     except Exception:
         print("An error occurred.")
         return None
+
+# requesting Gemini scan
